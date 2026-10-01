@@ -1,0 +1,69 @@
+PASS | build 148 all four configs
+PASS | no other active project build number
+PASS | codemagic expects 148
+PASS | marketing version stays 1.0
+PASS | main bundle id retained
+PASS | control bundle id retained
+PASS | font download retained
+PASS | no font binary shipped in source zip
+PASS | tutorial split into own source file
+PASS | tutorial revision key forces new walkthrough once
+PASS | tutorial uses horizontal paging
+PASS | tutorial has previous and next controls
+PASS | tutorial has ten focused pages
+PASS | tutorial makes prebuffer requirement explicit
+PASS | tutorial quick capture appears early
+PASS | tutorial includes capture cancel
+PASS | tutorial includes capture point replay
+PASS | tutorial includes split editing
+PASS | tutorial includes export storage routine settings revisit
+PASS | settings can reopen tutorial
+PASS | memory normal header archive is compact icon
+PASS | memory selection mode replaces cluttered header
+PASS | memory selection actions one-line and not blue prominent
+PASS | folder select-all respects current filter
+PASS | shared title editor exists
+PASS | detail and editor use same title editor
+PASS | old crowded detail title implementation removed
+PASS | old crowded editor title implementation removed
+PASS | title style is one button plus sheet
+PASS | title keyboard done and external resign path retained
+PASS | subtitle keyboard alignment popup removed
+PASS | subtitle style owns alignment controls
+PASS | subtitle style alignment persists immediately
+PASS | subtitle alignment visibly moves one-line cues
+PASS | subtitle selected overlay no longer expands to 88 percent
+PASS | selected cue helper retained for subtitle actions
+PASS | subtitle duplicate beside add retained
+PASS | subtitle compact toolbar icon labels retained
+PASS | subtitle duplicate preserves style and playhead
+PASS | capture cancel retained with confirmation
+PASS | routine reminder and tap-to-on retained
+PASS | routine OFF auto and no silent ON catchup retained
+PASS | one-hour capture auto-cancels without save
+PASS | 55-minute warning retained
+PASS | photo library save retained
+PASS | external audio recovery retained
+PASS | gowun font retained
+PASS | export dynamic fps retained with crisp final pass
+PASS | memory preview title/meta lifted above playback strip
+PASS | title stays single-line, shrinks, diagonal style icon retained
+PASS | export keeps previous meta and waveform visual scale
+PASS | memory preview suppresses subtitles
+PASS | title selects all on focus
+PASS | subtitle selects all on edit
+PASS | editor title width matches export safe width
+PASS | memory rows support native swipe delete
+PASS | rolling bitrate reduced for disk budget
+PASS | quick capture successful start is not forced failed by activity race
+PASS | no legacy web app layer
+PASS | photos HOLD ON album helper retained
+PASS | playback boost is non destructive and capped at five
+PASS | quiet section cleanup remains reversible
+PASS | audio edit tools are one compact four-item row
+PASS | audio edit UI no longer adds second tool row
+PASS | external media route avoids bluetooth HFP
+PASS | static export seed uses two samples
+PASS | phone interruption delayed rebuild retained
+
+TOTAL: 67/67 PASS
